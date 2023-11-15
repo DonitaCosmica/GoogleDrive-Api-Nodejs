@@ -1,0 +1,3 @@
+It is a simple test application to see and learn how the Google Drive API works. The objective is to download the files or create folders with the name of the folders that are in your Google Drive.
+
+In order to use this code you need to have a project in Google Cloud in your console, and activate the Google Drive API. Subsequently, obtain a .json file with valid credentials to be able to confirm authorization of a Google account to use that Google Drive.
